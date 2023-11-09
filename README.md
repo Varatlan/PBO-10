@@ -9,9 +9,11 @@ Lalu kami isi dengan kodingan untuk CSV dan dapat menggunakan persistence.
 untuk file.csv nya kami menggunakan notepad, isi notepad kami seperti ini.
 
 # isi notepad
-# wir, wer, wor, wqr (panjangnya tergantung berapa banyak column di tabel kalian)
-# 23, 34, 45, 56
-# w2, e3e, t4t, t5t5
+wir, wer, wor, wqr (panjangnya tergantung berapa banyak column di tabel kalian)
+
+23, 34, 45, 56
+
+w2, e3e, t4t, t5t5
 
 # Kodingan CSV
 
